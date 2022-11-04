@@ -1,0 +1,6 @@
+"Punto y Banca"
+
+ El Punto y Banca es un juego de cartas, que tiene como objetivo lograr nueve puntos o una puntuación lo más cercana posible.
+ El puntaje se obtiene de la suma de 2 cartas que tiene cada una de las dos manos que se enfrentan: el punto o la banca.
+ Si la suma fuese mayor a 9, se tomará el valor de la unidad.Ej 9+4= 13 se tomará valor 3.
+ Para comenzar el jugador realizará una apuesta al número que formarán las cartas.

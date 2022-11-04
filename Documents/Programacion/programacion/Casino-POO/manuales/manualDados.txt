@@ -1,0 +1,8 @@
+   "Dados"
+
+   El objetivo es sencillo: apostar al número que formarán los dados antes de realizar el lanzamiento.
+   Para comenzar el jugador realizará una apuesta al número que formarán los dados.
+   Si la combinación resultante fuese: 
+     - 2 o 12 el jugador habrá triplicado la apuesta
+     - 7 u 11 el jugador habrá duplicado la apuesta;
+     - Cualquier otro el jugador perderá la apuesta.
