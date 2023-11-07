@@ -5,7 +5,7 @@ import Lista from './components/lista';
 function App() {
   return (
     <div className="App">
-      <Lista></Lista>
+      <Lista />
     </div>
   );
 }

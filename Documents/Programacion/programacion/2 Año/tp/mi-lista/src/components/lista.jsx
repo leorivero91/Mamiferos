@@ -21,7 +21,7 @@ const Lista = () => {
         <ul>
             {personas.map((persona, index) => (
                 <li key={index}>
-                    <p>{persona.nombre} -- {persona.apellido} -- {persona.nacionalidad} -- </p>
+                    {persona.nombre} -- {persona.apellido} -- {persona.nacionalidad} --
                     </li>
                 ))};
         </ul>
